@@ -3,7 +3,7 @@ title: 你好，世界！
 date: 2023-06-08 11:45:14 +0800
 categories: [随笔]
 tags: [生活]
-pin: true
+pin: false
 author: innsy
 
 toc: true
