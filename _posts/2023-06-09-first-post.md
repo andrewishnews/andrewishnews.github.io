@@ -14,6 +14,4 @@ mermaid: true
 
 ---
 
-# My first post 
-
 Espertre! Sxaksoir plaf sxe blog. Nol palacus ativesdat vu. Lesal olu beldat tukmens sxe sintakdat!
